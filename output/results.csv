@@ -1,5 +1,1 @@
-plot_id,nitrogen,phosphorus,potassium,ph,rainfall_mm,region,recommended_crop,fertilizer_bio,notes
-A1,80,45,40,6.5,220,Coastal,Rice,Biofertilizers: Azolla + Azospirillum; Compost: 2–3 t/ha; Neem cake: 250 kg/ha,Paddy-friendly pH and rainfall. Maintain standing water; mulch after transplant.
-B2,40,20,20,7.8,90,Inland,Pearl Millet,Rhizobacteria inoculant; Farmyard manure 5 t/ha; Rock phosphate microdose,Alkaline & dry—millets are resilient. Prefer drought-tolerant variety.
-C3,120,60,80,5.4,300,WesternGhats,Tea (small plot),Vermi-compost 2 t/ha; Biochar 0.5 t/ha; Mycorrhiza inoculation,Acidic soils with high rainfall suit tea. Provide shade trees.
-D4,30,15,15,6.8,50,Inland,Pigeon Pea,Rhizobium seed treatment; Green manuring; Mulch to conserve moisture,"Legume fixes nitrogen, suits low-input & low-rainfall scenarios."
+plot_id,recommended_crop,fertilizer_bio,notes
